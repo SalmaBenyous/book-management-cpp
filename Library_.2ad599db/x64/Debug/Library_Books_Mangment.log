@@ -1,0 +1,5 @@
+﻿  Library_Books_Mangment.cpp
+C:\Users\Intel\Desktop\Library_Books_Mangment\Library_Books_Mangment.cpp(70,17): warning C4566: le caractère représenté par le nom de caractère universel '\u2705' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\Intel\Desktop\Library_Books_Mangment\Library_Books_Mangment.cpp(78,17): warning C4566: le caractère représenté par le nom de caractère universel '\u2705' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\Intel\Desktop\Library_Books_Mangment\Library_Books_Mangment.cpp(89,17): warning C4566: le caractère représenté par le nom de caractère universel '\U0001F4DA' ne peut pas être représenté dans la page de codes actuelle (1252)
+LINK : fatal error LNK1168: impossible d'ouvrir C:\Users\Intel\Desktop\Library_Books_Mangment\x64\Debug\Library_Books_Mangment.exe pour écrire
